@@ -1,5 +1,10 @@
-### Hi there 👋
-
+<h3 align="center"> Hi, I'm Mandar 👋</h3>
+<p align="center">
+  <a href="https://mandargogate.com">🔭 blog</a> •
+  <a href="https://www.instagram.com/mandargogate/">📸 instagram</a> •
+  <a href="https://twitter.com/mandar_gogate">🐦 twitter</a> •
+  <a href="https://www.linkedin.com/in/mandargogate/">🔗 linkedin</a>
+</p>
 <!--
 **MandarGogate/MandarGogate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
